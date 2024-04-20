@@ -1,0 +1,23 @@
+.perfil-imagem{
+    border: 3px solid rgb(223, 223, 223);
+}
+
+.perfil-imagem img{
+    object-fit: fill;
+}
+
+.aside-perfil {
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.card-title{
+    font-size: 20px;
+    margin-bottom: 4px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.card-title:hover{
+    text-decoration: underline;
+}
